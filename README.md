@@ -1,3 +1,1 @@
-# this is a Local Repo
-
-Author- SumeetShah
+# this ia a Local Repo
